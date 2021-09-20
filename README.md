@@ -1,6 +1,5 @@
 ## Hi, I'm Josh
-
-I believe in empowering people to be succesful and live fulfilling lives. 
+I am an Atlanta based cyber security data analyst. I believe in investing in relationships and diving into the details of how things work in order to optimize processes and improve decisions.  
 
 ## Professional Interests
 * Business Intelligence
